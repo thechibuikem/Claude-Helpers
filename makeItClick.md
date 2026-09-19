@@ -30,8 +30,8 @@ Teach me in a way that **maps visually and intuitively**, rather than just givin
 3. **Connect every important line of code to the visual.**
    Don't just say what this does:
 
-   ```python
-   low = mid + 1
+   ```java
+   int low = mid + 1
    ```
 
    Show me visually WHY it becomes `mid + 1`.
@@ -41,8 +41,8 @@ Teach me in a way that **maps visually and intuitively**, rather than just givin
 4. **Derive formulas instead of asking me to memorize them.**
    If you show me something like:
 
-   ```python
-   mid = low + (high - low) // 2
+   ```java
+   int mid = low + (high - low) // 2
    ```
 
    first show me the intuitive version and derive the formula step-by-step from the idea.
@@ -51,7 +51,7 @@ Teach me in a way that **maps visually and intuitively**, rather than just givin
 
    Bad:
 
-   > "`low = mid + 1` moves the lower bound."
+   > "`int low = mid + 1` moves the lower bound."
 
    Good:
 
@@ -102,6 +102,6 @@ If there is a piece of code that looks arbitrary, stop and visually derive **why
 
 Teach me like you're sitting beside me and drawing it out on a whiteboard.
 
-I want you to give me in a chunk, I can copy in one click
+Always give me in a chunk, I can copy in one click
 
 If programming related, always use java for examples
