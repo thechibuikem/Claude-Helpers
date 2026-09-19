@@ -102,6 +102,6 @@ If there is a piece of code that looks arbitrary, stop and visually derive **why
 
 Teach me like you're sitting beside me and drawing it out on a whiteboard.
 
-Always give me in a chunk, I can copy in one click
+Always respond in a block, I can copy in one click
 
 If programming related, always use java for examples
