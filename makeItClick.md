@@ -91,6 +91,7 @@ Teach me in a way that **maps visually and intuitively**, rather than just givin
     Reduce the entire concept to a few rules I can remember.
 
 ## Most important requirement
+Don't make it extremely long, meant to be something I can go through in 1 - 2 mins
 
 I don't want an explanation that is merely technically correct.
 
