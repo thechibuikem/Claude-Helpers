@@ -101,3 +101,5 @@ I want an explanation where I can look at the code and think:
 If there is a piece of code that looks arbitrary, stop and visually derive **why it has to be written that way**.
 
 Teach me like you're sitting beside me and drawing it out on a whiteboard.
+
+I want you to give me in a chunk, I can copy in one click
